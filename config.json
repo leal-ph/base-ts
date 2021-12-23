@@ -1,0 +1,7 @@
+{
+    "id":"connector",
+    "secret":"62fd8fa026e9d0f0d7c65a1159453fe7",
+    "api_port":5000,
+    "server_endpoint": "http://172.20.0.235/eMAMRESTAPI/api/v1",
+    "token_endpoint":"http://172.20.0.235/eMAMRESTAPI/token"
+}
